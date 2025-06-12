@@ -161,4 +161,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🔗 Links Relacionados
 
-- [TrashTracker Mobile App](https://github.com/ronipassion/trashtracker-mobile)
+- [TrashTracker Mobile App](https://github.com/ronipassion/TrashTrackk.git)
